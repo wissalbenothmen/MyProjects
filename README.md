@@ -194,11 +194,11 @@ Participated in a hackathon to develop a Human Resources Management (HRM) system
 Skills: Machine Learning · Laravel · Teamwork · Team Leadership
 
 ![Project 11.1](hackathon1(img1).png.jpg)
-![Project 11.1](hackathon1(img2).png)
-![Project 11.1](hackathon1(img3).png)
-![Project 11.1](hackathon1(img4).png)
-![Project 11.1](hackathon1(img5).png)
-![Project 11.1](hackathon1(img6).png)
+![Project 11.1](hackathon1(img2).jpg)
+![Project 11.1](hackathon1(img3).jpg)
+![Project 11.1](hackathon1(img4).jpg)
+![Project 11.1](hackathon1(img5).jpg)
+![Project 11.1](hackathon1(img6).jpg)
 
 ## Project12 -> 3rd Prize Winners - Airbnb and 2024 Olympic Games Hackathon
 
