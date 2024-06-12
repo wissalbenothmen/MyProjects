@@ -11,7 +11,7 @@ Welcome to my portfolio repository! Here, you can delve into my skills, projects
 
 ## Completed Projects
 
-### Project Site Web Manager & CRM
+### 1.Project Site Web Manager & CRM
 
 Explore our comprehensive Project Site Web Manager & CRM, a PHP-based solution designed to streamline project management and customer relationship processes. This all-in-one platform encompasses unified project management, sales and client management, team collaboration, and customizable dashboards. With a user-friendly interface and scalability, it aims to enhance productivity and ensure a secure and reliable experience.
 
@@ -72,17 +72,15 @@ Engage with our web scraper project, extracting product information from various
 3. Configure the database settings.
 4. Run the application using `python app.py`.
 5. Access the user interface via the browser at http://localhost:5000.
-
-## Screenshots
-
-### Project 1
-
 ![Project 1.1](projet1(img1).png)
 ![Project 1.2](projet1(img2).png)
 ![Project 1.3](projet1(img3).png)
 ![Project 1.4](projet1(img4).png)
 ![Project 1.5](projet1(img5).png)
 ![Project 1.6](projet1(img6).png)
+
+## Screenshots
+
 ### Project 2
 
 ![Project 2.1](projet2(img1).png)
