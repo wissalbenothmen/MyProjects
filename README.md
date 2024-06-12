@@ -184,14 +184,11 @@ Participated in a Kaggle competition for predicting house prices in Ames, Iowa, 
 This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.
 Skills: Decision-Making 
 
-![Project 11.1](resultat MiniMax regrer.png)
-![Project 11.1](resultat maximin.png
-![Project 11.1](resultat maximax.png)
-![Project 11.1](resultat laplace.png)
-![Project 11.1](resultat hurwic.png)
-![Project 11.1](resultat bernoulli.png)
+![Project 11.1](Index.png)
+![Project 11.1](form.png)
 
-## Project11 -> Decision-Making Tool under Uncertainty: A Python Flask Web Application
+
+## Project11 -> Hackathon Participation: Hospital Human Resources Management System with Machine Learning Integrationon
 
 Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.
 Skills: Machine Learning · Laravel · Teamwork · Team Leadership
