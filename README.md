@@ -34,7 +34,7 @@ Our team was awarded the 3rd prize at a hackathon focused on Airbnb and the 2024
 ## Project3 -> Hackathon Participation: Hospital Human Resources Management System with Machine Learning Integrationon
 
 Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.Participated in a hackathon to develop a Human Resources Management (HRM) system for hospitals, integrating machine learning models to monitor patient status and predict the probability of nosocomial infection risks in real time.
-Skills: Machine Learning · Laravel · Teamwork · Team Leadership
+- Skills: Machine Learning · Laravel · Teamwork · Team Leadership
 
 ![Project 11.1](hackathon1(img1).png.jpg)
 ![Project 11.1](hackathon1(img2).jpg)
@@ -47,12 +47,12 @@ Skills: Machine Learning · Laravel · Teamwork · Team Leadership
 In the context of my Master's in Big Data and Artificial Intelligence, I conducted an in-depth study on student learning preferences, including PCA, CA, MCA, and classification methods like K-means and Ward. Using these advanced analytical methods, I explored global responses to a questionnaire.
 Caractéristiques clés :
 
-Analyse multidimensionnelle des styles d'apprentissage et des préférences pédagogiques (ACP, AFC, ACM).
-Utilisation de techniques de classification pour une exploration approfondie.
-Exploration visuelle des préférences dans les domaines d'études et les loisirs.
-Investigation des liens entre facteurs psychologiques et types d'intelligence.
+- Analyse multidimensionnelle des styles d'apprentissage et des préférences pédagogiques (ACP, AFC, ACM).
+- Utilisation de techniques de classification pour une exploration approfondie.
+- Exploration visuelle des préférences dans les domaines d'études et les loisirs.
+- Investigation des liens entre facteurs psychologiques et types d'intelligence.
 
-Keywords:
+- Keywords:
 Learning preferences, PCA, CA, MCA, Classification, Educational strategies.
 ![Project 7.1](projet7(img1).png)
 ![Project 7.2](projet7(img2).png)
@@ -62,7 +62,7 @@ Learning preferences, PCA, CA, MCA, Classification, Educational strategies.
 ## Project5 -> Model Analysis and Selection Project for Prostate-Specific Antigen (lpsa) Prediction
 
 This project aims to develop accurate and robust predictive models for predicting the level of prostate-specific antigen (lpsa) from various clinical variables. PSA is a crucial biomarker used to assess the risk of prostate cancer. The data used are from the study by Stamey et al. (1989) and include variables such as the log of cancer volume, log of prostate weight, age, and other relevant clinical features. The project begins with a data exploration phase, including visualization of distributions, checking for missing values, and normalization of variables to ensure data quality before modeling. Several techniques are then applied, including classical linear models, model selection methods, regularization techniques (Ridge, Lasso, Elastic Net), as well as partial least squares (PLS) and principal component regression (PCR). Each method is evaluated with different configurations to ensure model optimality. Cross-validation techniques are used to select the best hyperparameters and evaluate the predictive performances of each model. The goal is to compare these approaches to identify the most effective and applicable method in a clinical context for predicting lpsa level.This project aims to develop accurate and robust predictive models for predicting the level of prostate-specific antigen (lpsa) from various clinical variables. PSA is a crucial biomarker used to assess the risk of prostate cancer. The data used are from the study by Stamey et al. (1989) and include variables such as the log of cancer volume, log of prostate weight, age, and other relevant clinical features. The project begins with a data exploration phase, including visualization of distributions, checking for missing values, and normalization of variables to ensure data quality before modeling. Several techniques are then applied, including classical linear models, model selection methods, regularization techniques (Ridge, Lasso, Elastic Net), as well as partial least squares (PLS) and principal component regression (PCR). Each method is evaluated with different configurations to ensure model optimality. Cross-validation techniques are used to select the best hyperparameters and evaluate the predictive performances of each model. The goal is to compare these approaches to identify the most effective and applicable method in a clinical context for predicting lpsa level.
-Skills: Machine Learning
+- Skills: Machine Learning
 
 ![Project 8.1](projet8(img1).png)
 ![Project 8.2](projet8(img2).png)
@@ -73,12 +73,12 @@ Skills: Machine Learning
 
 This study compares various algorithms for solving the N-Queens problem, a classic problem in artificial intelligence. The N-Queens problem involves placing N queens on an N × N chessboard such that no two queens threaten each other, according to the rules of chess. The problem is formalized as a Constraint Satisfaction Problem (CSP).
 
-Objectives:
+- Objectives:
 
-Formalize the N-Queens problem as a CSP.
-Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm.
-Analyze the results and draw conclusions.This study compares various algorithms for solving the N-Queens problem, a classic problem in artificial intelligence. The N-Queens problem involves placing N queens on an N × N chessboard such that no two queens threaten each other, according to the rules of chess. The problem is formalized as a Constraint Satisfaction Problem (CSP). Objectives: Formalize the N-Queens problem as a CSP. Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm. Analyze the results and draw conclusions.
-Skills: Artificial Intelligence (AI) · Algorithms
+- Formalize the N-Queens problem as a CSP.
+- Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm.
+- Analyze the results and draw conclusions.This study compares various algorithms for solving the N-Queens problem, a classic problem in artificial intelligence. The - N-Queens problem involves placing N queens on an N × N chessboard such that no two queens threaten each other, according to the rules of chess. The problem is - formalized as a Constraint Satisfaction Problem (CSP). Objectives: Formalize the N-Queens problem as a CSP. Implement and compare the AC3 algorithm, depth-first search with backtracking, and Forward checking algorithm. Analyze the results and draw conclusions.
+- Skills: Artificial Intelligence (AI) · Algorithms
 
 ![Project 9.1](projet9(img1).png)
 ![Project 9.2](projet9(img2).png)
@@ -89,7 +89,7 @@ Skills: Artificial Intelligence (AI) · Algorithms
 ## Project7 -> Q-Learning Algorithm Implementation for Maze Solving
 
 This project, part of the Big Data and Artificial Intelligence Master's program, focuses on implementing the Q-learning algorithm to solve maze problems. The objective is to train an agent to find the shortest path from a starting point to an exit point in a maze, while avoiding walls. The project involves creating the maze structure, defining states, actions, rewards, and algorithm parameters, training the agent using Q-learning, and validating its ability to find optimal paths in various maze configurations.This project, part of the Big Data and Artificial Intelligence Master's program, focuses on implementing the Q-learning algorithm to solve maze problems. The objective is to train an agent to find the shortest path from a starting point to an exit point in a maze, while avoiding walls. The project involves creating the maze structure, defining states, actions, rewards, and algorithm parameters, training the agent using Q-learning, and validating its ability to find optimal paths in various maze configurations.
-Skills: Reinforcement Learning
+- Skills: Reinforcement Learning
 
 ![Project 10.1](projet10(img1).png)
 ![Project 10.2](projet10(img2).png)
@@ -108,7 +108,7 @@ Participated in a Kaggle competition for predicting house prices in Ames, Iowa, 
 ## Project9 -> Decision-Making Tool under Uncertainty: A Python Flask Web Application
 
 This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.This project, developed during my university studies, involved creating a web application using Python Flask to aid in decision-making under uncertainty. The tool allows users to input decision criteria and weights for each criterion. It then computes the decision outcome using methods such as maximin, maximax, Laplace, Bernoulli, Hurwicz, and minimax regret. This enables users to compare outcomes and make informed decisions.
-Skills: Decision-Making 
+- Skills: Decision-Making 
 
 ![Project 11.1](Index.png)
 ![Project 11.1](form.png)
@@ -213,4 +213,5 @@ https://wissalbenothmen.netlify.app
 
 
 
-Thank you for visiting the "MyProjects" section of my portfolio repository! If you have any questions or if there's a project you'd like to explore further, feel free to reach out. Your interest is greatly appreciated!
+Thank you for visiting the "MyProjects" section of my portfolio repository! If you have any questions or if you'd like to explore a project further, feel free to contact me at [wissal.benothmen01@gmail.com](mailto:wissal.benothmen01@gmail.com). You can also follow me on [LinkedIn](https://www.linkedin.com/in/wissal-ben-othmen-2231521bb/). Your interest is greatly appreciated!
+
